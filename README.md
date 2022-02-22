@@ -69,7 +69,7 @@ different projects along with the people around me.
 <p align="right">
   <a href="https://github.com/Hitarth-Vyas/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Hitarth-Vyas15&theme=black-ice&hide_border=true&stroke=5BCDEC&background=060A0CD0" />
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Hitarth-Vyas&theme=black-ice&hide_border=true&stroke=5BCDEC&background=060A0CD0" />
   </a>
 </p>
 <br />
