@@ -24,6 +24,8 @@ different projects along with the people around me.
   I code with
 </h2>
 <p align="center">
+  <a href="https://www.kali.org/"><img
+      src="https://github.com/Hitarth-Vyas/Hitarth-Vyas/blob/main/gifs/Gns38.png" width="100"></a>
   <a href="https://getbootstrap.com/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
