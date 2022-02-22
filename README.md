@@ -15,10 +15,10 @@ different projects along with the people around me.
 - I’m currently learning NodeJS and Ethical Hacking.
 
 <h2 align="center">Let's put our minds together</h2>
-<a href="https://github.com/LuckYYadav15"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
+<a href="https://github.com/Hitarth-Vyas"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
     alt='github' height='40'></a>
-<a href="https://www.instagram.com/utkarshyadav15/"><img
-    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
+<!-- <a href="https://www.instagram.com/utkarshyadav15/"><img
+    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a> -->
 
 <h2 align="center">
   I code with
@@ -61,15 +61,15 @@ different projects along with the people around me.
 <h2 align="center">📊 Github Statistics</h2>
 <br />
 <p align="left" display="flex">
-  <a href="https://github.com/LuckYYadav15/github-readme-stats"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckYYadav15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/Hitarth-Vyas/github-readme-stats"><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarth-Vyas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 <p align="right">Top languages is matric of public repos and doesn't reflect experience</p>
 <p align="right">
-  <a href="https://github.com/LuckYYadav15/github-readme-streak-stats">
+  <a href="https://github.com/Hitarth-Vyas/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=LuckYYadav15&theme=black-ice&hide_border=true&stroke=5BCDEC&background=060A0CD0" />
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Hitarth-Vyas15&theme=black-ice&hide_border=true&stroke=5BCDEC&background=060A0CD0" />
   </a>
 </p>
 <br />
@@ -79,10 +79,10 @@ different projects along with the people around me.
 <br/>
 <br/>
 
-<a href="https://github.com/LuckYYadav15/github-readme-activity-graph">
-<img alt="Lucky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LuckYYadav15&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=false" />
+<a href="https://github.com/Hitarth-Vyas/github-readme-activity-graph">
+<img alt="Hit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hitarth-Vyas&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=false" />
 </a>
 <h2 align="center"> Pleasure to have you, waiting for your next visit.....</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=LuckYYadav15">
+  <img src="https://komarev.com/ghpvc/?username=Hitarth-Vyas">
 </a>
