@@ -1,4 +1,4 @@
-# JAI SHREE KRISHNA 🙏
+# JAI SHREE KRISHNA
 
 <br>
 <p align="center">
@@ -6,13 +6,13 @@
   <br><br>
 </p>
 
-<h1>I'm <a href="https://github.com/LuckYYadav15">Lucky Yadav</a></h1>
-I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
+<h1><a href="https://github.com/LuckYYadav15">Hitarth Vyas</a> Here</h1>
+I'm currently pursuing B.Tech in CSE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
 
-- 🔭 I’m currently working on Web Development And Desktop Assistant.
-- 🌱 I’m currently learning 🤖-Machine Learning.
+- I’m currently working on Web Development.
+- I’m currently learning NodeJS and Ethical Hacking.
 
 <h2 align="center">Let's put our minds together</h2>
 <a href="https://github.com/LuckYYadav15"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
@@ -24,8 +24,6 @@ different projects along with the people around me.
   I code with
 </h2>
 <p align="center">
-  <a href="https://www.adobe.com/in/creativecloud/photography.html"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/Adobe_ps_gif.gif" height="100" width="100"></a>
   <a href="https://getbootstrap.com/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
