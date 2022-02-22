@@ -6,7 +6,7 @@
   <br><br>
 </p>
 
-<h1><a href="https://github.com/LuckYYadav15">Hitarth Vyas</a> Here</h1>
+<h1><a href="https://github.com/Hitarth-Vyas">Hitarth Vyas</a> Here</h1>
 I'm currently pursuing B.Tech in CSE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
