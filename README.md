@@ -83,8 +83,8 @@ different projects along with the people around me.
 
 <!-- <a href="https://github.com/Hitarth-Vyas/github-readme-activity-graph">
 <img alt="Hit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hitarth-Vyas&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=false" />
-</a>
+</a> -->
 <h2 align="center"> Pleasure to have you, waiting for your next visit.....</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=Hitarth-Vyas">
-</a> -->
+</a>
